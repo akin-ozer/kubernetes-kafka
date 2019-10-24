@@ -1,5 +1,5 @@
 bases:
-- ../scale-3-5
+- ../scale-3-5-nopzoo
 resources:
 - aks-storageclass-broker-managed.yaml
 - aks-storageclass-zookeeper-managed.yaml
